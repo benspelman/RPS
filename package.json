@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "typescript": "^4.6.2"
-  }
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+    "scripts": {
+      "test": "jest"
+    }
 }
+
